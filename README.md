@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Mikhail, I'm intern developer.
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Physics Simulation Engine
 - 🌱 I’m currently learning .NET + Rust
